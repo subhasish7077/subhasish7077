@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Subhasish Panda and I'm a IT Student, from Gunupur</h2>
+<h2 align="left">Hi 👋! My name is Subhasish Panda and I'm an Computer Science Engineer</h2>
 
 ###
 
